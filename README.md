@@ -38,8 +38,7 @@ Using this web running app in your city to draw a _FCC_ map path！
 
 - [ ] Offline running challenges in China
 - [ ] Wechat official accounts posts
-- [ ] Medium Story
-- [ ] Competition 
+- [ ] [freecodecamp Medium](https://medium.freecodecamp.org/) Story
 - [ ] Global challenge
 
 
