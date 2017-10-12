@@ -46,7 +46,7 @@ Using this web running app in your city to draw a _FCC_ map path！
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [MIT License](LICENSE.md).
 
 ## Acknowledgments
 
