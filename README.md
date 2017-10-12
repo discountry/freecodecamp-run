@@ -1,6 +1,6 @@
-# freecodecamp-runner
+# freecodecamp-run
 
-Web Running App for FreeCodeCamp. 
+FCC-Run！Web Running App for FreeCodeCamp. 
 
 > Light up every city in the world with FCC running path!
 
@@ -37,6 +37,7 @@ Using this web running app in your city to draw a _FCC_ map path！
 
 ### TODO
 
+- [ ] Offline running challenges in China
 - [ ] Wechat official accounts posts
 - [ ] Medium Story
 - [ ] Competition 
