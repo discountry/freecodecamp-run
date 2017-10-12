@@ -44,3 +44,11 @@ Using this web running app in your city to draw a _FCC_ map path！
 - [ ] Global challenge
 
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Acknowledgments
+
+* [freecodecamp](https://github.com/freeCodeCamp)
+* [freecodecampchina](https://github.com/FreeCodeCampChina)
