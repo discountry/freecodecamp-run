@@ -22,7 +22,7 @@ FCC-Run！Web Running App for FreeCodeCamp.
 
 #### Front-end
 
-* React or Vue
+* Vue
 * [amap](http://b.amap.com/) API
 * [Google Map](https://map.google.com) API
 
